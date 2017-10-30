@@ -1,1 +1,4 @@
 # MachineLearningInAction
+
+最近在学习MachineLearningInAction，这里主要放了一些在学习过程中写的代码，代码附有较为详细的注释理解，以及一些学习笔记和参考资料，后续待补充
+
